@@ -11,6 +11,7 @@ pipeline {
           echo "This is the 3rd change"
           echo "This is the 4th change"
           echo "This is the 5th change"
+          echo "This is the 6th change"
           ls -lh
           '''
       }
